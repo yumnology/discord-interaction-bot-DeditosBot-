@@ -28,3 +28,5 @@ Los comandos de interacción se configuran introduciendo el nombre de los roles 
   Ejemplo:
     roles = ["PATRON","NitroBooster","SuperMod","Bot", "Moderador"]
       ejemplo usado en el servidor de elded
+
+Este bot es usado y puede ser ejecutado sin host en replit.com

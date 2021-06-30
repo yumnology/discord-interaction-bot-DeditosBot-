@@ -1,4 +1,4 @@
-# Discord-interaction-bot-(DeditosBot)
+# Discord interaction bot (DeditosBot)
 Bot para interacción creado para el servidor de discord de elded.
 Este bot es totalmente SFW aunque las busquedas con el comando img pueden tener contenido NSFW
 

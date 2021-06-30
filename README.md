@@ -40,4 +40,6 @@ Los comandos de interacción se configuran introduciendo el nombre de los roles 
     roles = ["PATRON","NitroBooster","SuperMod","Bot", "Moderador"]
       ejemplo usado en el servidor de elded
 
+El TOKEN del bot se introduce en el .env 
+
 Este bot es usado y puede ser ejecutado sin host en replit.com
